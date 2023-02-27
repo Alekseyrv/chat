@@ -1,4 +1,4 @@
-# для работы необходимо использовать api key телеги 
+для работы необходимо использовать api key телеги 
 # запуск
-# npm install
-# npm start
+npm install
+npm start
